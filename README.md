@@ -1,6 +1,6 @@
 # MY PERSONAL PORTFOLIO
 
-<font size=4>**Hello, World!**</font>
+<font size=6>**Hello, World!**</font>
 
 This time, I have tried to build something different. From AI models to 
 `<div>` tags, my CPU is now officially overdriven.
@@ -22,11 +22,8 @@ I would love to hear your feedback and suggestions!
 ## CHALLENGES FACED
 
 - CSS doing everything except what I wanted
-
 - JavaScript event listeners ghosting me
-
 - The box model making me question reality
-
 
 <p align=justify>Debugging felt more like a boss fight, styling was an art war, and animations? Let's just say my screen saw things it wasn't ready for. But every bug taught me more than any tutorial ever could. Watching it all finally move? Pure magic.</p>
 
