@@ -1,9 +1,6 @@
 # MY PERSONAL PORTFOLIO
 
-### **Hello, World!**
-
-This time, I have tried to build something different. From AI models to 
-`<div>` tags, my CPU is now officially overdriven.
+### HELLO, WORLD! This time, I have tried to build something different. From AI models to `<div>` tags, my CPU is now officially overdriven.
 
 <p align=justify>I have spent most of my learning years in the field of AI & ML, and web development is a completely new domain for me. To challenge myself and learn effectively, I decided to dive straight into building a project - my personal portfolio. It was like learning a new langugae, but instead of matrices, I was learning to speak in layouts and animations while figuring out why my `<div>` wouldn't center!!!</p>
 
